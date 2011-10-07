@@ -20,9 +20,9 @@ You can add a special flag at the end of a layer to control it's rendering:
 
 # Example
 
-![](sample/overlay.png)
+![](raw/master/sample/overlay.png)
 
-![](sample/layers.png)
+![](raw/master/sample/layers.png)
 
 ## Exported files:
 
@@ -32,10 +32,10 @@ You can add a special flag at the end of a layer to control it's rendering:
 	acme-product-big-(~).png
 	acme-product.png
 
-![](sample/export/acme-home-hovering-\(~\).png)
-![](sample/export/acme-home-popup-\(~\).png)
-![](sample/export/acme-home.png)
-![](sample/export/acme-product-big-\(~\).png)
-![](sample/export/acme-product.png)
+![](raw/master/sample/export/acme-home-hovering-\(~\).png)
+![](raw/master/sample/export/acme-home-popup-\(~\).png)
+![](raw/master/sample/export/acme-home.png)
+![](raw/master/sample/export/acme-product-big-\(~\).png)
+![](raw/master/sample/export/acme-product.png)
 
 [SaveLayersAsPNG]: http://www.hicksdesign.co.uk/journal/illustrator-exporting-layers-to-png
