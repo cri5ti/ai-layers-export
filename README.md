@@ -20,9 +20,9 @@ You can add a special flag at the end of a layer to control it's rendering:
 
 # Example
 
-![](raw/master/sample/overlay.png)
+![](https://github.com/cri5ti/ai-layers-export/raw/master/sample/overlay.png)
 
-![](raw/master/sample/layers.png)
+![](https://github.com/cri5ti/ai-layers-export/raw/master/sample/layers.png)
 
 ## Exported files:
 
@@ -32,10 +32,10 @@ You can add a special flag at the end of a layer to control it's rendering:
 	acme-product-big-(~).png
 	acme-product.png
 
-![](raw/master/sample/export/acme-home-hovering-\(~\).png)
-![](raw/master/sample/export/acme-home-popup-\(~\).png)
-![](raw/master/sample/export/acme-home.png)
-![](raw/master/sample/export/acme-product-big-\(~\).png)
-![](raw/master/sample/export/acme-product.png)
+![](https://github.com/cri5ti/ai-layers-export/raw/master/sample/export/acme-home-hovering-\(~\).png)
+![](https://github.com/cri5ti/ai-layers-export/raw/master/sample/export/acme-home-popup-\(~\).png)
+![](https://github.com/cri5ti/ai-layers-export/raw/master/sample/export/acme-home.png)
+![](https://github.com/cri5ti/ai-layers-export/raw/master/sample/export/acme-product-big-\(~\).png)
+![](https://github.com/cri5ti/ai-layers-export/raw/master/sample/export/acme-product.png)
 
 [SaveLayersAsPNG]: http://www.hicksdesign.co.uk/journal/illustrator-exporting-layers-to-png
